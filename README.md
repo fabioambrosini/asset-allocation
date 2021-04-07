@@ -2,7 +2,7 @@
 
 **The project is to create a portfolio starting with a capital of € 5MLN.**
 
-* It is possible to change the composition of the portfolio during the period(10/30/2020-12/04/2020).
+* It is possible to change the composition of the portfolio during the period (10/30/2020-12/04/2020).
 
 * At the end of each week a report must be made.
 
