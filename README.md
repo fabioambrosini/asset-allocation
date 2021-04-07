@@ -1,4 +1,4 @@
-# asset-allocation
+# Investment-game
 
 **The project is to create a portfolio starting with a capital of € 5MLN.**
 
